@@ -1,0 +1,31 @@
+rm beban_gb_2016.sql
+rm beban_jij_2016.sql
+rm beban_pm_2016.sql
+rm penyusutan_gb_2016.sql
+rm penyusutan_jij_2016.sql
+rm penyusutan_modul2_gb_2016.sql
+rm penyusutan_modul2_jij_2016.sql
+rm penyusutan_modul2_pm_2016.sql
+rm penyusutan_modul3_gb_2016.sql
+rm penyusutan_modul3_jij_2016.sql
+rm penyusutan_modul3_pm_2016.sql
+rm penyusutan_modul4_gb_2016.sql
+rm penyusutan_modul4_jij_2016.sql
+rm penyusutan_modul4_pm_2016.sql
+rm penyusutan_pm_2016.sql
+cvs remove beban_gb_2016.sql
+cvs remove beban_jij_2016.sql
+cvs remove beban_pm_2016.sql
+cvs remove penyusutan_gb_2016.sql
+cvs remove penyusutan_jij_2016.sql
+cvs remove penyusutan_modul2_gb_2016.sql
+cvs remove penyusutan_modul2_jij_2016.sql
+cvs remove penyusutan_modul2_pm_2016.sql
+cvs remove penyusutan_modul3_gb_2016.sql
+cvs remove penyusutan_modul3_jij_2016.sql
+cvs remove penyusutan_modul3_pm_2016.sql
+cvs remove penyusutan_modul4_gb_2016.sql
+cvs remove penyusutan_modul4_jij_2016.sql
+cvs remove penyusutan_modul4_pm_2016.sql
+cvs remove penyusutan_pm_2016.sql
+cvs ci
